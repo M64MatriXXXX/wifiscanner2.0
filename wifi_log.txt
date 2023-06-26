@@ -1,0 +1,1358 @@
+Nie znaleziono ¿adnych dostêpnych sieci Wi-Fi.
+Znaleziono dostêpne sieci Wi-Fi:
+Nazwa: UPC4598228, Sygna³: -56 dBm, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: 2.88 metrów
+Nazwa: NETIASPOT-5GHz-150630, Sygna³: -84 dBm, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: 68.73 metrów
+Nazwa: UPC4598228, Sygna³: -56 dBm, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: 2.88 metrów
+Nazwa: Orange_Swiatlowod_4510, Sygna³: -86 dBm, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: 91.17 metrów
+Nazwa: UPC0208526, Sygna³: -81 dBm, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: 51.27 metrów
+Nazwa: UPC4567997, Sygna³: -70 dBm, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: 14.45 metrów
+Nazwa: NETIASPOT-5GHz-33Gx, Sygna³: -88 dBm, Czêstotliwoœæ: 5180.0 GHz, Odleg³oœæ: 115.66 metrów
+Nie znaleziono ¿adnych dostêpnych sieci Wi-Fi.
+Znaleziono dostêpne sieci Wi-Fi:
+Nazwa: UPC4598228, Sygna³: -56 dBm, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: 2.88 metrów
+Nazwa: Hania-5Ghz, Sygna³: -83 dBm, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: 61.25 metrów
+Nazwa: NoInternetAccess, Sygna³: -86 dBm, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: 91.17 metrów
+Nazwa: UPC4598228, Sygna³: -56 dBm, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: 2.88 metrów
+Nazwa: NETIASPOT-5GHz-139D04, Sygna³: -87 dBm, Czêstotliwoœæ: 5260.0 GHz, Odleg³oœæ: 101.51 metrów
+Nazwa: UPC4673570, Sygna³: -87 dBm, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: 102.29 metrów
+Nazwa: UPC0208526, Sygna³: -80 dBm, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: 45.69 metrów
+Nazwa: UPC4567997, Sygna³: -70 dBm, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: 14.45 metrów
+Nazwa: NETIASPOT-5GHz-33Gx, Sygna³: -86 dBm, Czêstotliwoœæ: 5180.0 GHz, Odleg³oœæ: 91.87 metrów
+Nie znaleziono ¿adnych dostêpnych sieci Wi-Fi.
+Znaleziono dostêpne sieci Wi-Fi:
+Nazwa: UPC4598228, Sygna³: -56 dBm, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: 2.88 metrów
+Nazwa: UPC4598228, Sygna³: -56 dBm, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: 2.88 metrów
+Nazwa: UPC4673570, Sygna³: -87 dBm, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: 102.29 metrów
+Nazwa: NoInternetAccess, Sygna³: -87 dBm, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: 102.29 metrów
+Nazwa: UPC0208526, Sygna³: -78 dBm, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: 36.29 metrów
+Nazwa: UPC4567997, Sygna³: -76 dBm, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: 28.83 metrów
+Znaleziono dostêpne sieci Wi-Fi:
+Nazwa: UPC4598228, Sygna³: -56 dBm, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: 2.88 metrów
+Nazwa: UPC4598228, Sygna³: -56 dBm, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: 2.88 metrów
+Nazwa: NETIASPOT-5GHz-150630, Sygna³: -84 dBm, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: 68.73 metrów
+Nazwa: NETIASPOT-5GHz-143F70, Sygna³: -84 dBm, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: 68.73 metrów
+Nazwa: Hania-5Ghz, Sygna³: -84 dBm, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: 68.73 metrów
+Nazwa: UPC4673570, Sygna³: -87 dBm, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: 102.29 metrów
+Nazwa: NoInternetAccess, Sygna³: -87 dBm, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: 102.29 metrów
+Nazwa: UPC0208526, Sygna³: -78 dBm, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: 36.29 metrów
+Nazwa: UPC4567997, Sygna³: -76 dBm, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: 28.83 metrów
+Znaleziono dostêpne sieci Wi-Fi:
+Nazwa: UPC4598228, Sygna³: -56 dBm, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: 2.88 metrów
+Nazwa: UPC4598228, Sygna³: -50 dBm, Czêstotliwoœæ: 2412.0 GHz, Odleg³oœæ: 3.13 metrów
+Nazwa: NETIASPOT-2.4GHz-26F874, Sygna³: -76 dBm, Czêstotliwoœæ: 2462.0 GHz, Odleg³oœæ: 61.12 metrów
+Nazwa: Wi-Free #InternetUPCNajszybszy, Sygna³: -68 dBm, Czêstotliwoœæ: 2462.0 GHz, Odleg³oœæ: 24.33 metrów
+Nazwa: Wi-Free #InternetUPCNajszybszy, Sygna³: -76 dBm, Czêstotliwoœæ: 2437.0 GHz, Odleg³oœæ: 61.75 metrów
+Nazwa: Wi-Free #InternetUPCNajszybszy, Sygna³: -73 dBm, Czêstotliwoœæ: 2412.0 GHz, Odleg³oœæ: 44.17 metrów
+Nazwa: UPC4567997, Sygna³: -68 dBm, Czêstotliwoœæ: 2462.0 GHz, Odleg³oœæ: 24.33 metrów
+Nazwa: UPC4567997, Sygna³: -76 dBm, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: 28.83 metrów
+Nazwa: UPC4598228, Sygna³: -56 dBm, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: 2.88 metrów
+Nazwa: UPC4598228, Sygna³: -50 dBm, Czêstotliwoœæ: 2412.0 GHz, Odleg³oœæ: 3.13 metrów
+Nazwa: gigacube-W, Sygna³: -74 dBm, Czêstotliwoœæ: 2442.0 GHz, Odleg³oœæ: 48.95 metrów
+Nazwa: Hania-2.4Ghz, Sygna³: -73 dBm, Czêstotliwoœæ: 2437.0 GHz, Odleg³oœæ: 43.72 metrów
+Nazwa: NETIASPOT-2.4GHz-JuH2, Sygna³: -76 dBm, Czêstotliwoœæ: 2422.0 GHz, Odleg³oœæ: 62.13 metrów
+Nazwa: UPC0208526 2.4GHz, Sygna³: -72 dBm, Czêstotliwoœæ: 2412.0 GHz, Odleg³oœæ: 39.37 metrów
+Nazwa: NETIASPOT-5GHz-150630, Sygna³: -84 dBm, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: 68.73 metrów
+Nazwa: NETIASPOT-5GHz-143F70, Sygna³: -84 dBm, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: 68.73 metrów
+Nazwa: Hania-5Ghz, Sygna³: -84 dBm, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: 68.73 metrów
+Nazwa: UPC4673570, Sygna³: -87 dBm, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: 102.29 metrów
+Nazwa: NoInternetAccess, Sygna³: -87 dBm, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: 102.29 metrów
+Nazwa: UPC0208526, Sygna³: -78 dBm, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: 36.29 metrów
+Nie znaleziono ¿adnych dostêpnych sieci Wi-Fi.
+Znaleziono dostêpne sieci Wi-Fi:
+Nazwa: [34m{}[0m, Sygna³: UPC4598228 dBm, Czêstotliwoœæ: -57 GHz, Odleg³oœæ: 5220.00 metrów
+Nazwa: [34m{}[0m, Sygna³: UPC4598228 dBm, Czêstotliwoœæ: -57 GHz, Odleg³oœæ: 5220.00 metrów
+Nazwa: [34m{}[0m, Sygna³: NETIASPOT-5GHz-143F70 dBm, Czêstotliwoœæ: -84 GHz, Odleg³oœæ: 5500.00 metrów
+Nazwa: [34m{}[0m, Sygna³: Hania-5Ghz dBm, Czêstotliwoœæ: -84 GHz, Odleg³oœæ: 5500.00 metrów
+Nazwa: [34m{}[0m, Sygna³: NETIASPOT-5GHz-139D04 dBm, Czêstotliwoœæ: -88 GHz, Odleg³oœæ: 5260.00 metrów
+Nazwa: [34m{}[0m, Sygna³: Zwierzyniec - Dzicz dBm, Czêstotliwoœæ: -87 GHz, Odleg³oœæ: 5220.00 metrów
+Nazwa: [34m{}[0m, Sygna³: UPC4673570 dBm, Czêstotliwoœæ: -87 GHz, Odleg³oœæ: 5220.00 metrów
+Nazwa: [34m{}[0m, Sygna³: UPC0208526 dBm, Czêstotliwoœæ: -78 GHz, Odleg³oœæ: 5220.00 metrów
+Nazwa: [34m{}[0m, Sygna³: UPC4567997 dBm, Czêstotliwoœæ: -71 GHz, Odleg³oœæ: 5220.00 metrów
+Nazwa: [34m{}[0m, Sygna³: NETIASPOT-5GHz-33Gx dBm, Czêstotliwoœæ: -87 GHz, Odleg³oœæ: 5180.00 metrów
+Nie znaleziono ¿adnych dostêpnych sieci Wi-Fi.
+Znaleziono dostêpne sieci Wi-Fi:
+Nazwa: [34mUPC4598228, Sygna³: -56 dBm, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: 2.88 metrów[0m
+Nazwa: [34mUPC4598228, Sygna³: -56 dBm, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: 2.88 metrów[0m
+Nazwa: [34mHania-5Ghz, Sygna³: -84 dBm, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: 68.73 metrów[0m
+Nazwa: [34mNETIASPOT-5GHz-26EE60, Sygna³: -83 dBm, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: 61.25 metrów[0m
+Nazwa: [34mNETIASPOT-5GHz-139D04, Sygna³: -87 dBm, Czêstotliwoœæ: 5260.0 GHz, Odleg³oœæ: 101.51 metrów[0m
+Nazwa: [34mUPC4673570, Sygna³: -87 dBm, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: 102.29 metrów[0m
+Nazwa: [34mNoInternetAccess, Sygna³: -87 dBm, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: 102.29 metrów[0m
+Nazwa: [34mUPC4567997, Sygna³: -72 dBm, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: 18.19 metrów[0m
+Nazwa: [34mNETIASPOT-5GHz-33Gx, Sygna³: -87 dBm, Czêstotliwoœæ: 5180.0 GHz, Odleg³oœæ: 103.08 metrów[0m
+Nie znaleziono ¿adnych dostêpnych sieci Wi-Fi.
+Znaleziono dostêpne sieci Wi-Fi:
+Nazwa: [34mUPC4598228, Sygna³: -56 dBm, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: 2.88 metrów[0m
+Nazwa: [34mUPC4598228, Sygna³: -56 dBm, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: 2.88 metrów[0m
+Nazwa: [34mNETIASPOT-5GHz-150630, Sygna³: -85 dBm, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: 77.11 metrów[0m
+Nazwa: [34mNETIASPOT-5GHz-143F70, Sygna³: -85 dBm, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: 77.11 metrów[0m
+Nazwa: [34mHania-5Ghz, Sygna³: -84 dBm, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: 68.73 metrów[0m
+Nazwa: [34mgigacube_5G-W, Sygna³: -84 dBm, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: 68.73 metrów[0m
+Nazwa: [34mNETIASPOT-5GHz-26EE60, Sygna³: -83 dBm, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: 61.25 metrów[0m
+Nazwa: [34mZwierzyniec - Dzicz, Sygna³: -86 dBm, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: 91.17 metrów[0m
+Nazwa: [34mUPC4673570, Sygna³: -86 dBm, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: 91.17 metrów[0m
+Nazwa: [34mUPC0208526, Sygna³: -79 dBm, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: 40.72 metrów[0m
+Nazwa: [34mUPC4567997, Sygna³: -72 dBm, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: 18.19 metrów[0m
+Nie znaleziono ¿adnych dostêpnych sieci Wi-Fi.
+Znaleziono dostêpne sieci Wi-Fi:
+Nazwa: [34mUPC4598228, Sygna³: [32m-56 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: 2.88 metrów
+Nazwa: [34mUPC4598228, Sygna³: [32m-56 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: 2.88 metrów
+Nazwa: [34mNETIASPOT-5GHz-139D04, Sygna³: [32m-86 dBm[0m, Czêstotliwoœæ: 5260.0 GHz, Odleg³oœæ: 90.47 metrów
+Nazwa: [34mUPC4673570, Sygna³: [32m-87 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: 102.29 metrów
+Nazwa: [34mUPC0208526, Sygna³: [32m-81 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: 51.27 metrów
+Nazwa: [34mUPC4567997, Sygna³: [32m-80 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: 45.69 metrów
+Nazwa: [34mNETIASPOT-5GHz-33Gx, Sygna³: [32m-87 dBm[0m, Czêstotliwoœæ: 5180.0 GHz, Odleg³oœæ: 103.08 metrów
+Nie znaleziono ¿adnych dostêpnych sieci Wi-Fi.
+Znaleziono dostêpne sieci Wi-Fi:
+Nazwa: [34mUPC4598228, Sygna³: [32m-57 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m3.23 metrów[0m
+Nazwa: [34mNETIASPOT-5GHz-143F70, Sygna³: [32m-85 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m77.11 metrów[0m
+Nazwa: [34mUPC4598228, Sygna³: [32m-57 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m3.23 metrów[0m
+Nazwa: [34mNETIASPOT-5GHz-139D04, Sygna³: [32m-88 dBm[0m, Czêstotliwoœæ: 5260.0 GHz, Odleg³oœæ: [35m[1m113.90 metrów[0m
+Nazwa: [34mUPC0208526, Sygna³: [32m-81 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m51.27 metrów[0m
+Nazwa: [34mUPC4567997, Sygna³: [32m-77 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m32.35 metrów[0m
+Nie znaleziono ¿adnych dostêpnych sieci Wi-Fi.
+Znaleziono dostêpne sieci Wi-Fi:
+Nazwa: [34mUPC4598228, Sygna³: [32m-57 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m3.23 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Nazwa: [34mNETIASPOT-5GHz-26F874, Sygna³: [32m-84 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m68.73 metrów[0m
+Ping do urz¹dzenia 20:83:f8:26:f8:7c: nieudany.
+Nazwa: [34mNETIASPOT-5GHz-150630, Sygna³: [32m-85 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m77.11 metrów[0m
+Ping do urz¹dzenia 20:83:f8:15:06:38: nieudany.
+Nazwa: [34mNETIASPOT-5GHz-143F70, Sygna³: [32m-84 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m68.73 metrów[0m
+Ping do urz¹dzenia 20:83:f8:14:3f:78: nieudany.
+Nazwa: [34mUPC4598228, Sygna³: [32m-57 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m3.23 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Nazwa: [34mUPC4567997, Sygna³: [32m-72 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m18.19 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c5:18:04: nieudany.
+Nazwa: [34mUPC0208526, Sygna³: [32m-80 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m45.69 metrów[0m
+Ping do urz¹dzenia b4:f2:67:26:57:5c: nieudany.
+Nazwa: [34mUPC4673570, Sygna³: [32m-87 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m102.29 metrów[0m
+Ping do urz¹dzenia b4:f2:67:11:e9:5f: nieudany.
+Nazwa: [34mNETIASPOT-5GHz-33Gx, Sygna³: [32m-88 dBm[0m, Czêstotliwoœæ: 5180.0 GHz, Odleg³oœæ: [35m[1m115.66 metrów[0m
+Ping do urz¹dzenia e0:4b:a6:9c:de:c8: nieudany.
+Nie znaleziono ¿adnych dostêpnych sieci Wi-Fi.
+Znaleziono dostêpne sieci Wi-Fi:
+Nazwa: [34mUPC4598228, Sygna³: [32m-56 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m2.88 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Nazwa: [34mUPC4598228, Sygna³: [32m-56 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m2.88 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Nazwa: [34mHania-5Ghz, Sygna³: [32m-84 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m68.73 metrów[0m
+Ping do urz¹dzenia 20:83:f8:13:a2:0c: nieudany.
+Nazwa: [34mNETIASPOT-5GHz-26EE60, Sygna³: [32m-82 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m54.59 metrów[0m
+Ping do urz¹dzenia 20:83:f8:26:ee:68: nieudany.
+Nazwa: [34mZwierzyniec - Dzicz, Sygna³: [32m-87 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m102.29 metrów[0m
+Ping do urz¹dzenia ac:22:05:b4:11:0d: nieudany.
+Nazwa: [34mUPC4673570, Sygna³: [32m-87 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m102.29 metrów[0m
+Ping do urz¹dzenia b4:f2:67:11:e9:5f: nieudany.
+Nazwa: [34mUPC0208526, Sygna³: [32m-81 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m51.27 metrów[0m
+Ping do urz¹dzenia b4:f2:67:26:57:5c: nieudany.
+Nazwa: [34mUPC4567997, Sygna³: [32m-73 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m20.41 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c5:18:04: nieudany.
+Nie znaleziono ¿adnych dostêpnych sieci Wi-Fi.
+Znaleziono dostêpne sieci Wi-Fi:
+Nazwa: [34mUPC4598228, Sygna³: [32m-56 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m2.88 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Nazwa: [34mUPC4598228, Sygna³: [32m-56 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m2.88 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Nazwa: [34mHania-5Ghz, Sygna³: [32m-84 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m68.73 metrów[0m
+Ping do urz¹dzenia 20:83:f8:13:a2:0c: nieudany.
+Producent urz¹dzenia: Advanced Digital Broadcast SA
+Nazwa: [34mNETIASPOT-5GHz-26EE60, Sygna³: [32m-84 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m68.73 metrów[0m
+Ping do urz¹dzenia 20:83:f8:26:ee:68: nieudany.
+Producent urz¹dzenia: Advanced Digital Broadcast SA
+Nazwa: [34mNETIASPOT-5GHz-139D04, Sygna³: [32m-87 dBm[0m, Czêstotliwoœæ: 5260.0 GHz, Odleg³oœæ: [35m[1m101.51 metrów[0m
+Ping do urz¹dzenia 20:83:f8:13:9d:0c: nieudany.
+Producent urz¹dzenia: Nieznany
+Nazwa: [34mZwierzyniec - Dzicz, Sygna³: [32m-87 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m102.29 metrów[0m
+Ping do urz¹dzenia ac:22:05:b4:11:0d: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Nazwa: [34mUPC4673570, Sygna³: [32m-87 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m102.29 metrów[0m
+Ping do urz¹dzenia b4:f2:67:11:e9:5f: nieudany.
+Producent urz¹dzenia: Nieznany
+Nazwa: [34mUPC0208526, Sygna³: [32m-80 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m45.69 metrów[0m
+Ping do urz¹dzenia b4:f2:67:26:57:5c: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Nazwa: [34mNoInternetAccess, Sygna³: [32m-87 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m102.29 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:e7:37:dd: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Nazwa: [34mUPC4567997, Sygna³: [32m-75 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m25.69 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c5:18:04: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Nie znaleziono ¿adnych dostêpnych sieci Wi-Fi.
+Znaleziono dostêpne sieci Wi-Fi:
+Nazwa: [34mUPC4598228, Sygna³: [32m-56 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m2.88 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Nie znaleziono ¿adnych dostêpnych sieci Wi-Fi.
+Znaleziono dostêpne sieci Wi-Fi:
+Nazwa: [34mUPC4598228, Sygna³: [32m-56 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m2.88 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Znaleziono dostêpne sieci Wi-Fi:
+Nazwa: [34mUPC4598228, Sygna³: [32m-56 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m2.88 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Nie znaleziono ¿adnych dostêpnych sieci Wi-Fi.
+Znaleziono dostêpne sieci Wi-Fi:
+Nazwa: [34mUPC4598228, Sygna³: [32m-56 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m2.88 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Nie znaleziono ¿adnych dostêpnych sieci Wi-Fi.
+Znaleziono dostêpne sieci Wi-Fi:
+Nazwa: [34mUPC4598228, Sygna³: [32m-54 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m2.29 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Nie znaleziono ¿adnych dostêpnych sieci Wi-Fi.
+Znaleziono dostêpne sieci Wi-Fi:
+Nazwa: [34mUPC4598228, Sygna³: [32m-54 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m2.29 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Nie znaleziono ¿adnych dostêpnych sieci Wi-Fi.
+Znaleziono dostêpne sieci Wi-Fi:
+Nazwa: [34mUPC4598228, Sygna³: [32m-54 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m2.29 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Nazwa: [34mUPC4598228, Sygna³: [32m-54 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m2.29 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Nazwa: [34mTomboy Cafe, Sygna³: [32m-86 dBm[0m, Czêstotliwoœæ: 5540.0 GHz, Odleg³oœæ: [35m[1m85.90 metrów[0m
+Ping do urz¹dzenia ac:f8:cc:09:64:7a: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Nazwa: [34mNETIASPOT-5GHz-143F70, Sygna³: [32m-84 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m68.73 metrów[0m
+Ping do urz¹dzenia 20:83:f8:14:3f:78: nieudany.
+Producent urz¹dzenia: Advanced Digital Broadcast SA
+Rodzaj zabezpieczenia: Nieznane
+Nazwa: [34mgigacube_5G-W, Sygna³: [32m-85 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m77.11 metrów[0m
+Ping do urz¹dzenia 34:79:16:32:79:98: nieudany.
+Producent urz¹dzenia: HUAWEI TECHNOLOGIES CO.,LTD
+Rodzaj zabezpieczenia: Nieznane
+Nazwa: [34mNETIASPOT-5GHz-26EE60, Sygna³: [32m-84 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m68.73 metrów[0m
+Ping do urz¹dzenia 20:83:f8:26:ee:68: nieudany.
+Producent urz¹dzenia: Advanced Digital Broadcast SA
+Rodzaj zabezpieczenia: Nieznane
+Nazwa: [34mNETIASPOT-5GHz-139D04, Sygna³: [32m-89 dBm[0m, Czêstotliwoœæ: 5260.0 GHz, Odleg³oœæ: [35m[1m127.80 metrów[0m
+Ping do urz¹dzenia 20:83:f8:13:9d:0c: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Nazwa: [34mOrange_Swiatlowod_4510, Sygna³: [32m-89 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m128.77 metrów[0m
+Ping do urz¹dzenia 50:6f:0c:3e:45:10: nieudany.
+Producent urz¹dzenia: Sagemcom Broadband SAS
+Rodzaj zabezpieczenia: Nieznane
+Nazwa: [34mZwierzyniec - Dzicz, Sygna³: [32m-85 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m81.25 metrów[0m
+Ping do urz¹dzenia ac:22:05:b4:11:0d: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Nazwa: [34mUPC4673570, Sygna³: [32m-87 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m102.29 metrów[0m
+Ping do urz¹dzenia b4:f2:67:11:e9:5f: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Nazwa: [34mUPC0208526, Sygna³: [32m-78 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m36.29 metrów[0m
+Ping do urz¹dzenia b4:f2:67:26:57:5c: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Nazwa: [34mNoInternetAccess, Sygna³: [32m-87 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m102.29 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:e7:37:dd: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Nazwa: [34mUPC4567997, Sygna³: [32m-73 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m20.41 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c5:18:04: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Nie znaleziono ¿adnych dostêpnych sieci Wi-Fi.
+Nie znaleziono ¿adnych dostêpnych sieci Wi-Fi.
+Nie znaleziono ¿adnych dostêpnych sieci Wi-Fi.
+Znaleziono dostêpne sieci Wi-Fi:
+Nazwa: [34mUPC4598228, Sygna³: [32m-55 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m2.57 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Tracing route do urz¹dzenia 34:2c:c4:c1:c0:70:...
+Nie znaleziono ¿adnych dostêpnych sieci Wi-Fi.
+Znaleziono dostêpne sieci Wi-Fi:
+Nazwa: [34mUPC4598228, Sygna³: [32m-55 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m2.57 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Nazwa: [34mUPC4598228, Sygna³: [32m-55 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m2.57 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Nazwa: [34mHania-5Ghz, Sygna³: [32m-83 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m61.25 metrów[0m
+Ping do urz¹dzenia 20:83:f8:13:a2:0c: nieudany.
+Producent urz¹dzenia: Advanced Digital Broadcast SA
+Rodzaj zabezpieczenia: Nieznane
+Nazwa: [34mNETIASPOT-5GHz-26EE60, Sygna³: [32m-83 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m61.25 metrów[0m
+Ping do urz¹dzenia 20:83:f8:26:ee:68: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Nazwa: [34mNETIASPOT-5GHz-139D04, Sygna³: [32m-87 dBm[0m, Czêstotliwoœæ: 5260.0 GHz, Odleg³oœæ: [35m[1m101.51 metrów[0m
+Ping do urz¹dzenia 20:83:f8:13:9d:0c: nieudany.
+Producent urz¹dzenia: Advanced Digital Broadcast SA
+Rodzaj zabezpieczenia: Nieznane
+Nazwa: [34mNoInternetAccess, Sygna³: [32m-86 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m91.17 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:e7:37:dd: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Nazwa: [34mUPC0208526, Sygna³: [32m-79 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m40.72 metrów[0m
+Ping do urz¹dzenia b4:f2:67:26:57:5c: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Nazwa: [34mUPC4567997, Sygna³: [32m-72 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m18.19 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c5:18:04: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Nazwa: [34mNETIASPOT-5GHz-33Gx, Sygna³: [32m-87 dBm[0m, Czêstotliwoœæ: 5180.0 GHz, Odleg³oœæ: [35m[1m103.08 metrów[0m
+Ping do urz¹dzenia e0:4b:a6:9c:de:c8: nieudany.
+Producent urz¹dzenia: HUAWEI TECHNOLOGIES CO.,LTD
+Rodzaj zabezpieczenia: Nieznane
+Nie znaleziono ¿adnych dostêpnych sieci Wi-Fi.
+Znaleziono dostêpne sieci Wi-Fi:
+Nazwa: [34mUPC4598228, Sygna³: [32m-54 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m2.29 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Nie znaleziono ¿adnych dostêpnych sieci Wi-Fi.
+Znaleziono dostêpne sieci Wi-Fi:
+Nazwa: [34mUPC4598228, Sygna³: [32m-53 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m2.04 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mTomboy Cafe, Sygna³: [32m-86 dBm[0m, Czêstotliwoœæ: 5540.0 GHz, Odleg³oœæ: [35m[1m85.90 metrów[0m
+Ping do urz¹dzenia ac:f8:cc:09:64:7a: nieudany.
+Producent urz¹dzenia: ARRIS Group, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mHania-5Ghz, Sygna³: [32m-84 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m68.73 metrów[0m
+Ping do urz¹dzenia 20:83:f8:13:a2:0c: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mgigacube_5G-W, Sygna³: [32m-85 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m77.11 metrów[0m
+Ping do urz¹dzenia 34:79:16:32:79:98: nieudany.
+Producent urz¹dzenia: HUAWEI TECHNOLOGIES CO.,LTD
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mUPC4598228, Sygna³: [32m-53 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m2.04 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mNETIASPOT-5GHz-26EE60, Sygna³: [32m-84 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m68.73 metrów[0m
+Ping do urz¹dzenia 20:83:f8:26:ee:68: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mNETIASPOT-5GHz-139D04, Sygna³: [32m-87 dBm[0m, Czêstotliwoœæ: 5260.0 GHz, Odleg³oœæ: [35m[1m101.51 metrów[0m
+Ping do urz¹dzenia 20:83:f8:13:9d:0c: nieudany.
+Producent urz¹dzenia: Advanced Digital Broadcast SA
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mUPC0208526, Sygna³: [32m-78 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m36.29 metrów[0m
+Ping do urz¹dzenia b4:f2:67:26:57:5c: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mUPC4567997, Sygna³: [32m-73 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m20.41 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c5:18:04: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mNETIASPOT-5GHz-33Gx, Sygna³: [32m-88 dBm[0m, Czêstotliwoœæ: 5180.0 GHz, Odleg³oœæ: [35m[1m115.66 metrów[0m
+Ping do urz¹dzenia e0:4b:a6:9c:de:c8: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nie znaleziono ¿adnych dostêpnych sieci Wi-Fi.
+Znaleziono dostêpne sieci Wi-Fi:
+Nazwa: [34mUPC4598228, Sygna³: [32m-53 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m2.04 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mUPC4598228, Sygna³: [32m-52 dBm[0m, Czêstotliwoœæ: 2412.0 GHz, Odleg³oœæ: [35m[1m3.94 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:62: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mNETIASPOT-2.4GHz-33Gx, Sygna³: [32m-76 dBm[0m, Czêstotliwoœæ: 2452.0 GHz, Odleg³oœæ: [35m[1m61.37 metrów[0m
+Ping do urz¹dzenia e0:4b:a6:9c:de:c4: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mgigacube-W, Sygna³: [32m-73 dBm[0m, Czêstotliwoœæ: 2442.0 GHz, Odleg³oœæ: [35m[1m43.63 metrów[0m
+Ping do urz¹dzenia 34:79:16:32:79:96: nieudany.
+Producent urz¹dzenia: HUAWEI TECHNOLOGIES CO.,LTD
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mUPC4598228, Sygna³: [32m-53 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m2.04 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mUPC4598228, Sygna³: [32m-52 dBm[0m, Czêstotliwoœæ: 2412.0 GHz, Odleg³oœæ: [35m[1m3.94 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:62: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mHania-2.4Ghz, Sygna³: [32m-75 dBm[0m, Czêstotliwoœæ: 2437.0 GHz, Odleg³oœæ: [35m[1m55.04 metrów[0m
+Ping do urz¹dzenia 20:83:f8:13:a2:08: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mWi-Free #InternetUPCNajszybszy, Sygna³: [32m-76 dBm[0m, Czêstotliwoœæ: 2437.0 GHz, Odleg³oœæ: [35m[1m61.75 metrów[0m
+Ping do urz¹dzenia 36:2c:94:e7:37:d1: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mWi-Free #InternetUPCNajszybszy, Sygna³: [32m-52 dBm[0m, Czêstotliwoœæ: 2412.0 GHz, Odleg³oœæ: [35m[1m3.94 metrów[0m
+Ping do urz¹dzenia 36:2c:94:c1:c0:62: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mWi-Free #InternetUPCNajszybszy, Sygna³: [32m-70 dBm[0m, Czêstotliwoœæ: 2412.0 GHz, Odleg³oœæ: [35m[1m31.27 metrów[0m
+Ping do urz¹dzenia b6:f2:17:26:57:60: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mNoInternetAccess, Sygna³: [32m-76 dBm[0m, Czêstotliwoœæ: 2437.0 GHz, Odleg³oœæ: [35m[1m61.75 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:e7:37:d1: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mNoInternetAccess, Sygna³: [32m-88 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m114.77 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:e7:37:dd: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mTP-LINK_CA0621, Sygna³: [32m-76 dBm[0m, Czêstotliwoœæ: 2432.0 GHz, Odleg³oœæ: [35m[1m61.88 metrów[0m
+Ping do urz¹dzenia c4:e9:84:ca:06:20: nieudany.
+Producent urz¹dzenia: TP-LINK TECHNOLOGIES CO.,LTD.
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mUPC0208526 2.4GHz, Sygna³: [32m-71 dBm[0m, Czêstotliwoœæ: 2412.0 GHz, Odleg³oœæ: [35m[1m35.09 metrów[0m
+Ping do urz¹dzenia b4:f2:67:26:57:60: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mOrange_Swiatlowod_4510, Sygna³: [32m-87 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m97.08 metrów[0m
+Ping do urz¹dzenia 50:6f:0c:3e:45:10: nieudany.
+Producent urz¹dzenia: Sagemcom Broadband SAS
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mNETIASPOT-5GHz-143F70, Sygna³: [32m-84 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m68.73 metrów[0m
+Ping do urz¹dzenia 20:83:f8:14:3f:78: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mHania-5Ghz, Sygna³: [32m-84 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m68.73 metrów[0m
+Ping do urz¹dzenia 20:83:f8:13:a2:0c: nieudany.
+Producent urz¹dzenia: Advanced Digital Broadcast SA
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mNETIASPOT-5GHz-139D04, Sygna³: [32m-88 dBm[0m, Czêstotliwoœæ: 5260.0 GHz, Odleg³oœæ: [35m[1m113.90 metrów[0m
+Ping do urz¹dzenia 20:83:f8:13:9d:0c: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mUPC4673570, Sygna³: [32m-87 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m102.29 metrów[0m
+Ping do urz¹dzenia b4:f2:67:11:e9:5f: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mUPC0208526, Sygna³: [32m-80 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m45.69 metrów[0m
+Ping do urz¹dzenia b4:f2:67:26:57:5c: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mUPC4567997, Sygna³: [32m-68 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m11.48 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c5:18:04: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mNETIASPOT-5GHz-33Gx, Sygna³: [32m-88 dBm[0m, Czêstotliwoœæ: 5180.0 GHz, Odleg³oœæ: [35m[1m115.66 metrów[0m
+Ping do urz¹dzenia e0:4b:a6:9c:de:c8: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nie znaleziono ¿adnych dostêpnych sieci Wi-Fi.
+Znaleziono dostêpne sieci Wi-Fi:
+Nazwa: [34mUPC4598228, Sygna³: [32m-55 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m2.57 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mNETIASPOT-5GHz-150630, Sygna³: [32m-84 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m68.73 metrów[0m
+Ping do urz¹dzenia 20:83:f8:15:06:38: nieudany.
+Producent urz¹dzenia: Advanced Digital Broadcast SA
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mNETIASPOT-5GHz-143F70, Sygna³: [32m-83 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m61.25 metrów[0m
+Ping do urz¹dzenia 20:83:f8:14:3f:78: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mUPC4598228, Sygna³: [32m-55 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m2.57 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mUPC0208526, Sygna³: [32m-80 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m45.69 metrów[0m
+Ping do urz¹dzenia b4:f2:67:26:57:5c: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mUPC4567997, Sygna³: [32m-66 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m9.12 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c5:18:04: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mOrange_Swiatlowod_4510, Sygna³: [32m-86 dBm[0m, Czêstotliwoœæ: 5180.0 GHz, Odleg³oœæ: [35m[1m91.87 metrów[0m
+Ping do urz¹dzenia 50:6f:0c:3e:45:10: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mNETIASPOT-5GHz-33Gx, Sygna³: [32m-88 dBm[0m, Czêstotliwoœæ: 5180.0 GHz, Odleg³oœæ: [35m[1m115.66 metrów[0m
+Ping do urz¹dzenia e0:4b:a6:9c:de:c8: nieudany.
+Producent urz¹dzenia: HUAWEI TECHNOLOGIES CO.,LTD
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nie znaleziono ¿adnych dostêpnych sieci Wi-Fi.
+Znaleziono dostêpne sieci Wi-Fi:
+Nazwa: [34mUPC4598228, Sygna³: [32m-53 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m2.04 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Has³o do sieci UPC4598228: Has³o
+Nazwa: [34mUPC4598228, Sygna³: [32m-53 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m2.04 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Has³o do sieci UPC4598228: Has³o
+Nazwa: [34mHania-5Ghz, Sygna³: [32m-84 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m68.73 metrów[0m
+Ping do urz¹dzenia 20:83:f8:13:a2:0c: nieudany.
+Producent urz¹dzenia: Advanced Digital Broadcast SA
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Has³o do sieci Hania-5Ghz: Has³o
+Nazwa: [34mgigacube_5G-W, Sygna³: [32m-85 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m77.11 metrów[0m
+Ping do urz¹dzenia 34:79:16:32:79:98: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Has³o do sieci gigacube_5G-W: Has³o
+Nazwa: [34mNETIASPOT-5GHz-26EE60, Sygna³: [32m-83 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m61.25 metrów[0m
+Ping do urz¹dzenia 20:83:f8:26:ee:68: nieudany.
+Producent urz¹dzenia: Advanced Digital Broadcast SA
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Has³o do sieci NETIASPOT-5GHz-26EE60: Has³o
+Nazwa: [34mNETIASPOT-5GHz-139D04, Sygna³: [32m-87 dBm[0m, Czêstotliwoœæ: 5260.0 GHz, Odleg³oœæ: [35m[1m101.51 metrów[0m
+Ping do urz¹dzenia 20:83:f8:13:9d:0c: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Has³o do sieci NETIASPOT-5GHz-139D04: Has³o
+Nazwa: [34mUPC4567997, Sygna³: [32m-78 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m36.29 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c5:18:04: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Has³o do sieci UPC4567997: Has³o
+Nazwa: [34mNoInternetAccess, Sygna³: [32m-87 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m102.29 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:e7:37:dd: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Has³o do sieci NoInternetAccess: Has³o
+Nazwa: [34mUPC0208526, Sygna³: [32m-79 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m40.72 metrów[0m
+Ping do urz¹dzenia b4:f2:67:26:57:5c: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Has³o do sieci UPC0208526: Has³o
+Nie znaleziono ¿adnych dostêpnych sieci Wi-Fi.
+Znaleziono dostêpne sieci Wi-Fi:
+Nazwa: [34mUPC4598228, Sygna³: [32m-54 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m2.29 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Nie znaleziono ¿adnych dostêpnych sieci Wi-Fi.
+Znaleziono dostêpne sieci Wi-Fi:
+Nazwa: [34mUPC4598228, Sygna³: [32m-54 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m2.29 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Has³o do sieci UPC4598228: Has³o
+Nazwa: [34mUPC4598228, Sygna³: [32m-54 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m2.29 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Has³o do sieci UPC4598228: Has³o
+Nazwa: [34mNoInternetAccess, Sygna³: [32m-86 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m91.17 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:e7:37:dd: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Has³o do sieci NoInternetAccess: Has³o
+Nazwa: [34mUPC4567997, Sygna³: [32m-80 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m45.69 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c5:18:04: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Has³o do sieci UPC4567997: Has³o
+Nazwa: [34mUPC0208526, Sygna³: [32m-79 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m40.72 metrów[0m
+Ping do urz¹dzenia b4:f2:67:26:57:5c: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Has³o do sieci UPC0208526: Has³o
+Nazwa: [34m, Sygna³: [32m-89 dBm[0m, Czêstotliwoœæ: 5200.0 GHz, Odleg³oœæ: [35m[1m129.27 metrów[0m
+Ping do urz¹dzenia 00:15:6d:1e:3d:3a: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Has³o do sieci : Has³o
+Nie znaleziono ¿adnych dostêpnych sieci Wi-Fi.
+Znaleziono dostêpne sieci Wi-Fi:
+Nazwa: [34mUPC4598228, Sygna³: [32m-54 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m2.29 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Has³o do sieci UPC4598228: Has³o
+Nazwa: [34mUPC4598228, Sygna³: [32m-54 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m2.29 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Has³o do sieci UPC4598228: Has³o
+Nazwa: [34mNETIASPOT-5GHz-26EE60, Sygna³: [32m-83 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m61.25 metrów[0m
+Ping do urz¹dzenia 20:83:f8:26:ee:68: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Has³o do sieci NETIASPOT-5GHz-26EE60: Has³o
+Nazwa: [34mNETIASPOT-5GHz-143F70, Sygna³: [32m-85 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m77.11 metrów[0m
+Ping do urz¹dzenia 20:83:f8:14:3f:78: nieudany.
+Producent urz¹dzenia: Advanced Digital Broadcast SA
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Has³o do sieci NETIASPOT-5GHz-143F70: Has³o
+Nazwa: [34mNETIASPOT-5GHz-150630, Sygna³: [32m-85 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m77.11 metrów[0m
+Ping do urz¹dzenia 20:83:f8:15:06:38: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Has³o do sieci NETIASPOT-5GHz-150630: Has³o
+Nazwa: [34mHania-5Ghz, Sygna³: [32m-83 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m61.25 metrów[0m
+Ping do urz¹dzenia 20:83:f8:13:a2:0c: nieudany.
+Producent urz¹dzenia: Advanced Digital Broadcast SA
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Has³o do sieci Hania-5Ghz: Has³o
+Nazwa: [34mgigacube_5G-W, Sygna³: [32m-86 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m86.52 metrów[0m
+Ping do urz¹dzenia 34:79:16:32:79:98: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Has³o do sieci gigacube_5G-W: Has³o
+Nazwa: [34mNETIASPOT-5GHz-139D04, Sygna³: [32m-87 dBm[0m, Czêstotliwoœæ: 5260.0 GHz, Odleg³oœæ: [35m[1m101.51 metrów[0m
+Ping do urz¹dzenia 20:83:f8:13:9d:0c: nieudany.
+Producent urz¹dzenia: Advanced Digital Broadcast SA
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Has³o do sieci NETIASPOT-5GHz-139D04: Has³o
+Nazwa: [34mUPC4567997, Sygna³: [32m-82 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m57.52 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c5:18:04: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Has³o do sieci UPC4567997: Has³o
+Nazwa: [34mUPC0208526, Sygna³: [32m-80 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m45.69 metrów[0m
+Ping do urz¹dzenia b4:f2:67:26:57:5c: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Has³o do sieci UPC0208526: Has³o
+Nie znaleziono ¿adnych dostêpnych sieci Wi-Fi.
+Znaleziono dostêpne sieci Wi-Fi:
+Nazwa: [34mUPC4598228, Sygna³: [32m-54 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m2.29 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mUPC4598228, Sygna³: [32m-54 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m2.29 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mNETIASPOT-5GHz-143F70, Sygna³: [32m-85 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m77.11 metrów[0m
+Ping do urz¹dzenia 20:83:f8:14:3f:78: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mNETIASPOT-5GHz-150630, Sygna³: [32m-85 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m77.11 metrów[0m
+Ping do urz¹dzenia 20:83:f8:15:06:38: nieudany.
+Producent urz¹dzenia: Advanced Digital Broadcast SA
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mHania-5Ghz, Sygna³: [32m-84 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m68.73 metrów[0m
+Ping do urz¹dzenia 20:83:f8:13:a2:0c: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mgigacube_5G-W, Sygna³: [32m-86 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m86.52 metrów[0m
+Ping do urz¹dzenia 34:79:16:32:79:98: nieudany.
+Producent urz¹dzenia: HUAWEI TECHNOLOGIES CO.,LTD
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mNETIASPOT-5GHz-139D04, Sygna³: [32m-88 dBm[0m, Czêstotliwoœæ: 5260.0 GHz, Odleg³oœæ: [35m[1m113.90 metrów[0m
+Ping do urz¹dzenia 20:83:f8:13:9d:0c: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mUPC0208526, Sygna³: [32m-79 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m40.72 metrów[0m
+Ping do urz¹dzenia b4:f2:67:26:57:5c: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mUPC4567997, Sygna³: [32m-82 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m57.52 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c5:18:04: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mOrange_Swiatlowod_4510, Sygna³: [32m-86 dBm[0m, Czêstotliwoœæ: 5180.0 GHz, Odleg³oœæ: [35m[1m91.87 metrów[0m
+Ping do urz¹dzenia 50:6f:0c:3e:45:10: nieudany.
+Producent urz¹dzenia: Sagemcom Broadband SAS
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nie znaleziono ¿adnych dostêpnych sieci Wi-Fi.
+Znaleziono dostêpne sieci Wi-Fi:
+Nazwa: [34mUPC4598228, Sygna³: [32m-55 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m2.57 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mUPC4598228, Sygna³: [32m-55 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m2.57 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mUPC6163634_5ghz, Sygna³: [32m-86 dBm[0m, Czêstotliwoœæ: 5540.0 GHz, Odleg³oœæ: [35m[1m85.90 metrów[0m
+Ping do urz¹dzenia ac:f8:cc:86:41:99: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mHania-5Ghz, Sygna³: [32m-83 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m61.25 metrów[0m
+Ping do urz¹dzenia 20:83:f8:13:a2:0c: nieudany.
+Producent urz¹dzenia: Advanced Digital Broadcast SA
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mgigacube_5G-W, Sygna³: [32m-86 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m86.52 metrów[0m
+Ping do urz¹dzenia 34:79:16:32:79:98: nieudany.
+Producent urz¹dzenia: HUAWEI TECHNOLOGIES CO.,LTD
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mNETIASPOT-5GHz-26EE60, Sygna³: [32m-83 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m61.25 metrów[0m
+Ping do urz¹dzenia 20:83:f8:26:ee:68: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mNETIASPOT-5GHz-139D04, Sygna³: [32m-88 dBm[0m, Czêstotliwoœæ: 5260.0 GHz, Odleg³oœæ: [35m[1m113.90 metrów[0m
+Ping do urz¹dzenia 20:83:f8:13:9d:0c: nieudany.
+Producent urz¹dzenia: Advanced Digital Broadcast SA
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mZwierzyniec - Dzicz, Sygna³: [32m-86 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m91.17 metrów[0m
+Ping do urz¹dzenia ac:22:05:b4:11:0d: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mUPC4673570, Sygna³: [32m-86 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m91.17 metrów[0m
+Ping do urz¹dzenia b4:f2:67:11:e9:5f: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mNoInternetAccess, Sygna³: [32m-87 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m102.29 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:e7:37:dd: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mUPC0208526, Sygna³: [32m-79 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m40.72 metrów[0m
+Ping do urz¹dzenia b4:f2:67:26:57:5c: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mUPC4567997, Sygna³: [32m-80 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m45.69 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c5:18:04: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nie znaleziono ¿adnych dostêpnych sieci Wi-Fi.
+Znaleziono dostêpne sieci Wi-Fi:
+Nazwa: [34mUPC4598228, Sygna³: [32m-55 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m2.57 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mUPC4598228, Sygna³: [32m-55 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m2.57 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mZwierzyniec - Dzicz, Sygna³: [32m-86 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m91.17 metrów[0m
+Ping do urz¹dzenia ac:22:05:b4:11:0d: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mUPC4567997, Sygna³: [32m-79 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m40.72 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c5:18:04: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mUPC0208526, Sygna³: [32m-81 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m51.27 metrów[0m
+Ping do urz¹dzenia b4:f2:67:26:57:5c: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nie znaleziono ¿adnych dostêpnych sieci Wi-Fi.
+Znaleziono dostêpne sieci Wi-Fi:
+Nazwa: [34mUPC4598228, Sygna³: [32m-56 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m2.88 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mUPC4598228, Sygna³: [32m-56 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m2.88 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mHania-5Ghz, Sygna³: [32m-84 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m68.73 metrów[0m
+Ping do urz¹dzenia 20:83:f8:13:a2:0c: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mgigacube_5G-W, Sygna³: [32m-85 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m77.11 metrów[0m
+Ping do urz¹dzenia 34:79:16:32:79:98: nieudany.
+Producent urz¹dzenia: HUAWEI TECHNOLOGIES CO.,LTD
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mNETIASPOT-5GHz-26EE60, Sygna³: [32m-85 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m77.11 metrów[0m
+Ping do urz¹dzenia 20:83:f8:26:ee:68: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mNETIASPOT-5GHz-143F70, Sygna³: [32m-84 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m68.73 metrów[0m
+Ping do urz¹dzenia 20:83:f8:14:3f:78: nieudany.
+Producent urz¹dzenia: Advanced Digital Broadcast SA
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mNETIASPOT-5GHz-150630, Sygna³: [32m-85 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m77.11 metrów[0m
+Ping do urz¹dzenia 20:83:f8:15:06:38: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mNoInternetAccess, Sygna³: [32m-87 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m102.29 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:e7:37:dd: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mUPC4567997, Sygna³: [32m-78 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m36.29 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c5:18:04: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mUPC0208526, Sygna³: [32m-81 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m51.27 metrów[0m
+Ping do urz¹dzenia b4:f2:67:26:57:5c: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nie znaleziono ¿adnych dostêpnych sieci Wi-Fi.
+Znaleziono dostêpne sieci Wi-Fi:
+Nazwa: [34mUPC4598228, Sygna³: [32m-55 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m2.57 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mNETIASPOT-5GHz-143F70, Sygna³: [32m-84 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m68.73 metrów[0m
+Ping do urz¹dzenia 20:83:f8:14:3f:78: nieudany.
+Producent urz¹dzenia: Advanced Digital Broadcast SA
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mNETIASPOT-5GHz-150630, Sygna³: [32m-85 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m77.11 metrów[0m
+Ping do urz¹dzenia 20:83:f8:15:06:38: nieudany.
+Producent urz¹dzenia: Advanced Digital Broadcast SA
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mUPC4598228, Sygna³: [32m-55 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m2.57 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mNETIASPOT-5GHz-139D04, Sygna³: [32m-89 dBm[0m, Czêstotliwoœæ: 5260.0 GHz, Odleg³oœæ: [35m[1m127.80 metrów[0m
+Ping do urz¹dzenia 20:83:f8:13:9d:0c: nieudany.
+Producent urz¹dzenia: Advanced Digital Broadcast SA
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mNoInternetAccess, Sygna³: [32m-86 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m91.17 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:e7:37:dd: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mUPC4567997, Sygna³: [32m-78 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m36.29 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c5:18:04: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nazwa: [34mUPC0208526, Sygna³: [32m-79 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m40.72 metrów[0m
+Ping do urz¹dzenia b4:f2:67:26:57:5c: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Nie znaleziono ¿adnych dostêpnych sieci Wi-Fi.
+Znaleziono dostêpne sieci Wi-Fi:
+Nazwa: [34mUPC4598228, Sygna³: [32m-54 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m2.29 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mUPC4598228, Sygna³: [32m-54 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m2.29 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mgigacube_5G-W, Sygna³: [32m-85 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m77.11 metrów[0m
+Ping do urz¹dzenia 34:79:16:32:79:98: nieudany.
+Producent urz¹dzenia: HUAWEI TECHNOLOGIES CO.,LTD
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mNETIASPOT-5GHz-26EE60, Sygna³: [32m-83 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m61.25 metrów[0m
+Ping do urz¹dzenia 20:83:f8:26:ee:68: nieudany.
+Producent urz¹dzenia: Advanced Digital Broadcast SA
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mNETIASPOT-5GHz-143F70, Sygna³: [32m-83 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m61.25 metrów[0m
+Ping do urz¹dzenia 20:83:f8:14:3f:78: nieudany.
+Producent urz¹dzenia: Advanced Digital Broadcast SA
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mNETIASPOT-5GHz-150630, Sygna³: [32m-85 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m77.11 metrów[0m
+Ping do urz¹dzenia 20:83:f8:15:06:38: nieudany.
+Producent urz¹dzenia: Advanced Digital Broadcast SA
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mNoInternetAccess, Sygna³: [32m-86 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m91.17 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:e7:37:dd: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mUPC4567997, Sygna³: [32m-79 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m40.72 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c5:18:04: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mUPC0208526, Sygna³: [32m-79 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m40.72 metrów[0m
+Ping do urz¹dzenia b4:f2:67:26:57:5c: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Dostawca internetu: Nieznany
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nie znaleziono ¿adnych dostêpnych sieci Wi-Fi.
+Znaleziono dostêpne sieci Wi-Fi:
+Nazwa: [34mUPC4598228, Sygna³: [32m-58 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m3.63 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Dostawca internetu: Nieznany
+Nie znaleziono ¿adnych dostêpnych sieci Wi-Fi.
+Znaleziono dostêpne sieci Wi-Fi:
+Nazwa: [34mUPC4598228, Sygna³: [32m-57 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m3.23 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Dostawca internetu: Nieznany
+System operacyjny: Nieznany
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mNETIASPOT-5GHz-26EE60, Sygna³: [32m-84 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m68.73 metrów[0m
+Ping do urz¹dzenia 20:83:f8:26:ee:68: nieudany.
+Producent urz¹dzenia: Advanced Digital Broadcast SA
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Dostawca internetu: Nieznany
+System operacyjny: Nieznany
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mNETIASPOT-5GHz-143F70, Sygna³: [32m-84 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m68.73 metrów[0m
+Ping do urz¹dzenia 20:83:f8:14:3f:78: nieudany.
+Producent urz¹dzenia: Advanced Digital Broadcast SA
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Dostawca internetu: Nieznany
+System operacyjny: Nieznany
+Czas przeskanowania urz¹dzenia: [31m0.02 s[0m
+Nazwa: [34mNETIASPOT-5GHz-150630, Sygna³: [32m-84 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m68.73 metrów[0m
+Ping do urz¹dzenia 20:83:f8:15:06:38: nieudany.
+Producent urz¹dzenia: Advanced Digital Broadcast SA
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Dostawca internetu: Nieznany
+System operacyjny: Nieznany
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mHania-5Ghz, Sygna³: [32m-84 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m68.73 metrów[0m
+Ping do urz¹dzenia 20:83:f8:13:a2:0c: nieudany.
+Producent urz¹dzenia: Advanced Digital Broadcast SA
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Dostawca internetu: Nieznany
+System operacyjny: Nieznany
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mUPC4567997, Sygna³: [32m-77 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m32.35 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c5:18:04: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Dostawca internetu: Nieznany
+System operacyjny: Nieznany
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mUPC0208526, Sygna³: [32m-79 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m40.72 metrów[0m
+Ping do urz¹dzenia b4:f2:67:26:57:5c: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Dostawca internetu: Nieznany
+System operacyjny: Nieznany
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mUPC4598228, Sygna³: [32m-57 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m3.23 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Dostawca internetu: Nieznany
+System operacyjny: Nieznany
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nie znaleziono ¿adnych dostêpnych sieci Wi-Fi.
+Znaleziono dostêpne sieci Wi-Fi:
+Nazwa: [34mUPC4598228, Sygna³: [32m-55 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m2.57 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Nie mo¿na zmierzyæ szybkoœci po³¹czenia z urz¹dzeniem 34:2c:c4:c1:c0:70:
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Dostawca internetu: Nieznany
+System operacyjny: Nieznany
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mUPC4598228, Sygna³: [32m-55 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m2.57 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Nie mo¿na zmierzyæ szybkoœci po³¹czenia z urz¹dzeniem 34:2c:c4:c1:c0:70:
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Dostawca internetu: Nieznany
+System operacyjny: Nieznany
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mUPC6163634_5ghz, Sygna³: [32m-86 dBm[0m, Czêstotliwoœæ: 5540.0 GHz, Odleg³oœæ: [35m[1m85.90 metrów[0m
+Ping do urz¹dzenia ac:f8:cc:86:41:99: nieudany.
+Nie mo¿na zmierzyæ szybkoœci po³¹czenia z urz¹dzeniem ac:f8:cc:86:41:99:
+Producent urz¹dzenia: ARRIS Group, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Dostawca internetu: Nieznany
+System operacyjny: Nieznany
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mgigacube_5G-W, Sygna³: [32m-85 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m77.11 metrów[0m
+Ping do urz¹dzenia 34:79:16:32:79:98: nieudany.
+Nie mo¿na zmierzyæ szybkoœci po³¹czenia z urz¹dzeniem 34:79:16:32:79:98:
+Producent urz¹dzenia: HUAWEI TECHNOLOGIES CO.,LTD
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Dostawca internetu: Nieznany
+System operacyjny: Nieznany
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mNETIASPOT-5GHz-26EE60, Sygna³: [32m-83 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m61.25 metrów[0m
+Ping do urz¹dzenia 20:83:f8:26:ee:68: nieudany.
+Nie mo¿na zmierzyæ szybkoœci po³¹czenia z urz¹dzeniem 20:83:f8:26:ee:68:
+Producent urz¹dzenia: Advanced Digital Broadcast SA
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Dostawca internetu: Nieznany
+System operacyjny: Nieznany
+Czas przeskanowania urz¹dzenia: [31m0.02 s[0m
+Nazwa: [34mNETIASPOT-5GHz-143F70, Sygna³: [32m-84 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m68.73 metrów[0m
+Ping do urz¹dzenia 20:83:f8:14:3f:78: nieudany.
+Nie mo¿na zmierzyæ szybkoœci po³¹czenia z urz¹dzeniem 20:83:f8:14:3f:78:
+Producent urz¹dzenia: Advanced Digital Broadcast SA
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Dostawca internetu: Nieznany
+System operacyjny: Nieznany
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mNETIASPOT-5GHz-139D04, Sygna³: [32m-89 dBm[0m, Czêstotliwoœæ: 5260.0 GHz, Odleg³oœæ: [35m[1m127.80 metrów[0m
+Ping do urz¹dzenia 20:83:f8:13:9d:0c: nieudany.
+Nie mo¿na zmierzyæ szybkoœci po³¹czenia z urz¹dzeniem 20:83:f8:13:9d:0c:
+Producent urz¹dzenia: Advanced Digital Broadcast SA
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Dostawca internetu: Nieznany
+System operacyjny: Nieznany
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mNoInternetAccess, Sygna³: [32m-87 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m102.29 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:e7:37:dd: nieudany.
+Nie mo¿na zmierzyæ szybkoœci po³¹czenia z urz¹dzeniem 34:2c:c4:e7:37:dd:
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Dostawca internetu: Nieznany
+System operacyjny: Nieznany
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mUPC4567997, Sygna³: [32m-77 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m32.35 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c5:18:04: nieudany.
+Nie mo¿na zmierzyæ szybkoœci po³¹czenia z urz¹dzeniem 34:2c:c4:c5:18:04:
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Dostawca internetu: Nieznany
+System operacyjny: Nieznany
+Czas przeskanowania urz¹dzenia: [31m0.02 s[0m
+Nazwa: [34mUPC0208526, Sygna³: [32m-78 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m36.29 metrów[0m
+Ping do urz¹dzenia b4:f2:67:26:57:5c: nieudany.
+Nie mo¿na zmierzyæ szybkoœci po³¹czenia z urz¹dzeniem b4:f2:67:26:57:5c:
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Dostawca internetu: Nieznany
+System operacyjny: Nieznany
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mZwierzyniec - Dzicz, Sygna³: [32m-85 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m81.25 metrów[0m
+Ping do urz¹dzenia ac:22:05:b4:11:0d: nieudany.
+Nie mo¿na zmierzyæ szybkoœci po³¹czenia z urz¹dzeniem ac:22:05:b4:11:0d:
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Dostawca internetu: Nieznany
+System operacyjny: Nieznany
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nie znaleziono ¿adnych dostêpnych sieci Wi-Fi.
+Znaleziono dostêpne sieci Wi-Fi:
+Nazwa: [34mUPC4598228, Sygna³: [32m-56 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m2.88 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Dostawca internetu: Nieznany
+System operacyjny: Nieznany
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mNETIASPOT-5GHz-26EE60, Sygna³: [32m-83 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m61.25 metrów[0m
+Ping do urz¹dzenia 20:83:f8:26:ee:68: nieudany.
+Producent urz¹dzenia: Advanced Digital Broadcast SA
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Dostawca internetu: Nieznany
+System operacyjny: Nieznany
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mNETIASPOT-5GHz-150630, Sygna³: [32m-85 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m77.11 metrów[0m
+Ping do urz¹dzenia 20:83:f8:15:06:38: nieudany.
+Producent urz¹dzenia: Advanced Digital Broadcast SA
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Dostawca internetu: Nieznany
+System operacyjny: Nieznany
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mHania-5Ghz, Sygna³: [32m-84 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m68.73 metrów[0m
+Ping do urz¹dzenia 20:83:f8:13:a2:0c: nieudany.
+Producent urz¹dzenia: Advanced Digital Broadcast SA
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Dostawca internetu: Nieznany
+System operacyjny: Nieznany
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mNETIASPOT-5GHz-139D04, Sygna³: [32m-88 dBm[0m, Czêstotliwoœæ: 5260.0 GHz, Odleg³oœæ: [35m[1m113.90 metrów[0m
+Ping do urz¹dzenia 20:83:f8:13:9d:0c: nieudany.
+Producent urz¹dzenia: Advanced Digital Broadcast SA
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Dostawca internetu: Nieznany
+System operacyjny: Nieznany
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mUPC4598228, Sygna³: [32m-56 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m2.88 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Dostawca internetu: Nieznany
+System operacyjny: Nieznany
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mUPC0208526, Sygna³: [32m-81 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m51.27 metrów[0m
+Ping do urz¹dzenia b4:f2:67:26:57:5c: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Dostawca internetu: Nieznany
+System operacyjny: Nieznany
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mUPC4567997, Sygna³: [32m-78 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m36.29 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c5:18:04: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Dostawca internetu: Nieznany
+System operacyjny: Nieznany
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nie znaleziono ¿adnych dostêpnych sieci Wi-Fi.
+Znaleziono dostêpne sieci Wi-Fi:
+Nazwa: [34mUPC4598228, Sygna³: [32m-53 dBm[0m, Czêstotliwoœæ: 5300.0 GHz, Odleg³oœæ: [35m[1m2.01 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mNETIASPOT-5GHz-143F70, Sygna³: [32m-67 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m9.71 metrów[0m
+Ping do urz¹dzenia 20:83:f8:14:3f:78: nieudany.
+Producent urz¹dzenia: Advanced Digital Broadcast SA
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mNETIASPOT-5GHz-150630, Sygna³: [32m-67 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m9.71 metrów[0m
+Ping do urz¹dzenia 20:83:f8:15:06:38: nieudany.
+Producent urz¹dzenia: Advanced Digital Broadcast SA
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mNETIASPOT-5GHz-26EE60, Sygna³: [32m-81 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m48.66 metrów[0m
+Ping do urz¹dzenia 20:83:f8:26:ee:68: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Czas przeskanowania urz¹dzenia: [31m0.02 s[0m
+Nazwa: [34mUPC504679827, Sygna³: [32m-43 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m0.61 metrów[0m
+Ping do urz¹dzenia 8c:5b:f0:f5:e6:c4: nieudany.
+Producent urz¹dzenia: ARRIS Group, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mUPC4598228, Sygna³: [32m-53 dBm[0m, Czêstotliwoœæ: 5300.0 GHz, Odleg³oœæ: [35m[1m2.01 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mUPC0208526, Sygna³: [32m-78 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m36.29 metrów[0m
+Ping do urz¹dzenia b4:f2:67:26:57:5c: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mUPC4567997, Sygna³: [32m-78 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m36.29 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c5:18:04: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nie znaleziono ¿adnych dostêpnych sieci Wi-Fi.
+Nie znaleziono ¿adnych dostêpnych sieci Wi-Fi.
+Nie znaleziono ¿adnych dostêpnych sieci Wi-Fi.
+Znaleziono dostêpne sieci Wi-Fi:
+Nazwa: [34mUPC4598228, Sygna³: [32m-53 dBm[0m, Czêstotliwoœæ: 5300.0 GHz, Odleg³oœæ: [35m[1m2.01 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mUPC4598228, Sygna³: [32m-53 dBm[0m, Czêstotliwoœæ: 5300.0 GHz, Odleg³oœæ: [35m[1m2.01 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mUPC4567997, Sygna³: [32m-81 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m51.27 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c5:18:04: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mOrange_Swiatlowod_4510, Sygna³: [32m-70 dBm[0m, Czêstotliwoœæ: 5180.0 GHz, Odleg³oœæ: [35m[1m14.56 metrów[0m
+Ping do urz¹dzenia 50:6f:0c:3e:45:10: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Znaleziono dostêpne sieci Wi-Fi:
+Nazwa: [34mUPC4598228, Sygna³: [32m-54 dBm[0m, Czêstotliwoœæ: 5300.0 GHz, Odleg³oœæ: [35m[1m2.26 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mUPC4598228, Sygna³: [32m-54 dBm[0m, Czêstotliwoœæ: 5300.0 GHz, Odleg³oœæ: [35m[1m2.26 metrów[0m
+Ping do urz¹dzenia 34:2c:c4:c1:c0:70: nieudany.
+Producent urz¹dzenia: Compal Broadband Networks, Inc.
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mUPC6163634_5ghz, Sygna³: [32m-85 dBm[0m, Czêstotliwoœæ: 5540.0 GHz, Odleg³oœæ: [35m[1m76.56 metrów[0m
+Ping do urz¹dzenia ac:f8:cc:86:41:99: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mHania-5Ghz, Sygna³: [32m-83 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m61.25 metrów[0m
+Ping do urz¹dzenia 20:83:f8:13:a2:0c: nieudany.
+Producent urz¹dzenia: Advanced Digital Broadcast SA
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mNETIASPOT-5GHz-26F874, Sygna³: [32m-84 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m68.73 metrów[0m
+Ping do urz¹dzenia 20:83:f8:26:f8:7c: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mOrange_Swiatlowod_4510, Sygna³: [32m-74 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m21.73 metrów[0m
+Ping do urz¹dzenia 50:6f:0c:3e:45:10: nieudany.
+Producent urz¹dzenia: Sagemcom Broadband SAS
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mgigacube_5G-W, Sygna³: [32m-83 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m61.25 metrów[0m
+Ping do urz¹dzenia 34:79:16:32:79:98: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mNETIASPOT-5GHz-143F70, Sygna³: [32m-71 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m15.39 metrów[0m
+Ping do urz¹dzenia 20:83:f8:14:3f:78: nieudany.
+Producent urz¹dzenia: Advanced Digital Broadcast SA
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mNETIASPOT-5GHz-150630, Sygna³: [32m-73 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m19.37 metrów[0m
+Ping do urz¹dzenia 20:83:f8:15:06:38: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mNETIASPOT-5GHz-26EE60, Sygna³: [32m-83 dBm[0m, Czêstotliwoœæ: 5500.0 GHz, Odleg³oœæ: [35m[1m61.25 metrów[0m
+Ping do urz¹dzenia 20:83:f8:26:ee:68: nieudany.
+Producent urz¹dzenia: Advanced Digital Broadcast SA
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
+Nazwa: [34mUPC0208526, Sygna³: [32m-80 dBm[0m, Czêstotliwoœæ: 5220.0 GHz, Odleg³oœæ: [35m[1m45.69 metrów[0m
+Ping do urz¹dzenia b4:f2:67:26:57:5c: nieudany.
+Producent urz¹dzenia: Nieznany
+Rodzaj zabezpieczenia: Nieznane
+Czy sieæ jest zabezpieczona has³em: True
+Czas przeskanowania urz¹dzenia: [31m0.01 s[0m
